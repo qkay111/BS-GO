@@ -36,8 +36,10 @@
 
 ![Gameplay](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Gameplay.jpg)
 * [окна выбора оружия](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Weapons.jpg)
+
 ![Weapons](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Weapons.jpg)
 * [окна настроек](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Settings.jpg)
+
 ![Settings](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Settings.jpg)
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
 Целевая аудиория:
