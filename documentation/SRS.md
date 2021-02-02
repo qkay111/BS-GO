@@ -33,6 +33,7 @@
 
 Графический интерфейс проекта представлен с помощью мокапов:<a name="2.4"></a>
 * [игрового процесса](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Gameplay.jpg)  
+
 ![Gameplay](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Gameplay.jpg)
 * [окна выбора оружия](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Weapons.jpg)
 ![Weapons](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Weapons.jpg)
