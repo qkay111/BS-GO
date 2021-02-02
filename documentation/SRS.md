@@ -31,7 +31,10 @@
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
 Главное меню предстваляет из себя окно с возможностью выбора. Возможна гибкая настройка игры, такая как: настройка графики, выбор режимом игры, настройка управления и т.д.
 
-Графический интерфейс проекта представлен с помощью мокапов [главного окна](https://github.com/qkay111/PixelBattle/blob/master/documentation/mockups/Main%20window.png) и [окна магазина](https://github.com/qkay111/PixelBattle/blob/master/documentation/mockups/Shop.png).
+Графический интерфейс проекта представлен с помощью мокапов [игрового процесса](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Gameplay.jpg), [окна выбора оружия](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Weapons.jpg) и [окна настроек](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Settings.jpg).
+![Gameplay](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Gameplay.jpg)
+![Weapons](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Weapons.jpg)
+![Settings](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Settings.jpg)
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
 Целевая аудиория:
 Приложение предназначено для разных возрастных групп пользователей.
