@@ -26,7 +26,8 @@
 Данный проект является аналогом ["Counter-Strike: Global Offensive"](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) от ["Valve"](https://www.valvesoftware.com/ru/).
 ### 2. Требования пользователя <a name="2"></a>
 #### 2.1. Программные интерфейсы <a name="2.1"></a>
-*	Unreal Engine 4
+*	[Unreal Engine 4](https://www.unrealengine.com/en-US/)
+
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
 Главное меню предстваляет из себя окно с возможностью выбора. Возможна гибкая настройка игры, такая как: настройка графики, выбор режимом игры, настройка управления и т.д.
 
