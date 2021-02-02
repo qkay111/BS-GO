@@ -32,11 +32,11 @@
 Главное меню предстваляет из себя окно с возможностью выбора. Возможна гибкая настройка игры, такая как: настройка графики, выбор режимом игры, настройка управления и т.д.
 
 Графический интерфейс проекта представлен с помощью мокапов:<a name="2.4"></a>
-[игрового процесса](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Gameplay.jpg)
+* [игрового процесса](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Gameplay.jpg)
 ![Gameplay](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Gameplay.jpg)
-[окна выбора оружия](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Weapons.jpg)
+* [окна выбора оружия](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Weapons.jpg)
 ![Weapons](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Weapons.jpg)
-[окна настроек](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Settings.jpg).
+* [окна настроек](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Settings.jpg)
 ![Settings](https://github.com/qkay111/BS-GO/blob/main/documentation/mockups/Settings.jpg)
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
 Целевая аудиория:
